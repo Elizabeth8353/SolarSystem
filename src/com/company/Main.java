@@ -15,7 +15,12 @@ mikesun.temp="156463233";
 mikesun.radius="0.054521";
 mikesun.maritalStatus="I love Asghar";
 
-
+//Planet 2 features
+        Planet2 bashtrounot=new Planet2();
+        bashtrounot.color="pink";
+        bashtrounot.size="2556660";
+        bashtrounot.status="same as mike";
+        
 
     }
 }
