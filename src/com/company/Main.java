@@ -15,7 +15,11 @@ mikesun.temp="156463233";
 mikesun.radius="0.054521";
 mikesun.maritalStatus="I love Asghar";
 
-
+//adding planet 1 features
+        planet1 astranout=new planet1();
+        astranout.color="grey";
+        astranout.relationshipStatus="single";
+        astranout.size="99981584156";
 
     }
 }
